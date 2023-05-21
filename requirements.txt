@@ -1,0 +1,9 @@
+openai==0.27.6
+langchain==0.0.160
+playwright==1.33.0
+unstructured==0.6.3
+# then run "playwright install" in terminal to install the browsers
+tiktoken==0.3.3
+termcolor==2.3.0
+# for manually extracting code blocks from html
+beautifulsoup4==4.11.2
